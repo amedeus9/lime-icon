@@ -2,9 +2,9 @@
   font-family: 'Lime Icons';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/LimeIcons-Regular.woff2') format('woff2'),
-    url('/fonts/LimeIcons-Regular.woff') format('woff'),
-    url('/fonts/LimeIcons-Regular.ttf') format('truetype');
+  src: url('fonts/LimeIcons-Regular.woff2') format('woff2'),
+    url('fonts/LimeIcons-Regular.woff') format('woff'),
+    url('fonts/LimeIcons-Regular.ttf') format('truetype');
 }
 
 .lime-icons {
